@@ -1,4 +1,4 @@
-//This is a user model
+//This is a user models
 
 import { AbstractDocument } from '@app/common';
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
