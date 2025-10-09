@@ -1,3 +1,5 @@
+//This is a user model 
+
 import { AbstractDocument } from '@app/common';
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { UserRoles } from '@app/common/enums';
